@@ -1,0 +1,5 @@
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.randint.html
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html
+https://www.geeksforgeeks.org/file-handling-python/
+https://pythonspot.com/matplotlib-bar-chart/
+https://medium.com/python-pandemonium/data-visualization-in-python-bar-graph-in-matplotlib-f1738602e9c4
